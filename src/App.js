@@ -1,12 +1,14 @@
 import React from 'react';
-import Todoapp from './component/todoapp';
 // Importing Components;
+import Boxcom from './components/boxcom';
 
 
 const App = () => {
+
   return (
    <>
-   <Todoapp/>
+ 
+   <Boxcom/>
    </>
   )
 }
